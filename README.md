@@ -19,8 +19,7 @@ This is a simple web application that converts text into speech using AWS Polly.
 AWS-Polly-Text-to-Speech
 │
 ├── backend
-│   └── mainserver.js
-│
+│   └── mainserver.js│
 ├── frontend
 │   └── index.html
 │
